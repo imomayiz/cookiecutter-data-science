@@ -60,7 +60,7 @@ docs/_build/
 target/
 
 # DotEnv configuration
-.env
+#.env
 
 # Database
 *.db
