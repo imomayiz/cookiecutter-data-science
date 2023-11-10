@@ -3,6 +3,5 @@
     "repository_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "author_name": "IM",
     "description": "A short description of the project.",
-    "license": ["MIT"],
-    "python_interpreter": ["python3", "python"]
+    "license": ""
 }
