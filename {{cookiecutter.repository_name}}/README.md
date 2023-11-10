@@ -27,11 +27,15 @@ Explain the structure of your project. Highlight important directories and their
 ```plaintext
 project/
 |-- data/
-|-- notebooks/
-|-- src/
+|-- docs/
 |-- models/
+|-- notebooks/
 |-- results/
+|-- secrets/
+|-- src/
 |-- README.md
+|-- requirements.txt
+|-- .env
 ```
 
 ## Dependencies

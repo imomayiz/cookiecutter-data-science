@@ -1,5 +1,6 @@
 # Project template specifics
-
+/data/
+/secrets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -60,7 +61,7 @@ docs/_build/
 target/
 
 # DotEnv configuration
-#.env
+.env
 
 # Database
 *.db
