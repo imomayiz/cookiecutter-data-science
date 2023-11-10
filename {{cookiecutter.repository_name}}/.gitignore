@@ -1,5 +1,5 @@
 # Project template specifics
-#/data/
+/data/
 /secrets/
 
 # Byte-compiled / optimized / DLL files
