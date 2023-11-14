@@ -10,6 +10,7 @@ pip install cookiecutter
 ```bash
 cookiecutter https://github.com/imomayiz/cookiecutter-data-science.git
 ```
+This template comes with configured precommits. Once you run the command above, pre-commit will automatically be installed if necessary. Any commit afterwards will trigger multiple checks (pylint, black, mypy, interrogate, isort..) related to your code.
 
 ## Template structure
 ```plain text
@@ -32,11 +33,12 @@ cookiecutter https://github.com/imomayiz/cookiecutter-data-science.git
 +---secrets       <- gitignored
 |       credentials.yaml
 |       
-\---src
++---src
         build_features.py
         make_dataset.py
         predict.py
         train.py
         utils.py
         __init__.py
+\---tests         <- unit tests
 ```

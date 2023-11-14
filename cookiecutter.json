@@ -1,7 +1,7 @@
 {
     "project_name": "project_name",
     "repository_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-    "author_name": "Imane Momayiz",
+    "author_name": "Equancy",
     "description": "A short description of the project.",
-    "license": ""
+    "license": "Equancy All Rights Reserved"
 }

@@ -1,0 +1,134 @@
+<mxfile host="Electron" modified="2023-11-10T17:16:15.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="aG9n-VroUtHxQBtJ3zil" version="22.0.2" type="device">
+  <diagram name="Page-1" id="AfDlACmGQdI-kjG6up-f">
+    <mxGraphModel dx="1293" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RTWtIBDPe_BRNrza61l3-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTWtIBDPe_BRNrza61l3-2" target="RTWtIBDPe_BRNrza61l3-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-5" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RTWtIBDPe_BRNrza61l3-4">
+          <mxGeometry x="0.2451" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTWtIBDPe_BRNrza61l3-2" target="RTWtIBDPe_BRNrza61l3-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="300" as="targetPoint" />
+            <mxPoint x="570" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-7" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RTWtIBDPe_BRNrza61l3-6">
+          <mxGeometry x="0.2451" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTWtIBDPe_BRNrza61l3-8" target="RTWtIBDPe_BRNrza61l3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-8" value="Ask your manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="260" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTWtIBDPe_BRNrza61l3-10" target="RTWtIBDPe_BRNrza61l3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTWtIBDPe_BRNrza61l3-16" target="RTWtIBDPe_BRNrza61l3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1210" y="50" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-22" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;git init&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;git add .&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;git commit -m &quot;init&quot;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;git branch -M main&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;git remote add origin &lt;b&gt;&amp;lt;repo_url&amp;gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;git push -u origin main&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-23">
+          <mxGeometry width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-21" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-23">
+          <mxGeometry x="180.76999999999998" width="29.23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="920" y="50" width="230.00285714285715" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-25" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;# if cookiecutter not installed&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;pip install cookiecutter&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;# copy cookiecutter url from&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;cookiecutter&lt;b&gt;&amp;lt;cookiecutter-data-science_url&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-28">
+          <mxGeometry x="-50" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-20" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-28">
+          <mxGeometry x="200.77285714285716" width="29.23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="200" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-2" value="group&lt;br&gt;&lt;b&gt;&lt;i&gt;&amp;nbsp;&amp;lt;customer&amp;gt;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;exists" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-36">
+          <mxGeometry x="10" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-36">
+          <mxGeometry y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="637.5" y="140" width="182.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-10" value="create a repository&amp;nbsp;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff9933&quot;&gt;&amp;lt;customer-project-name&amp;gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&amp;nbsp;&lt;br&gt;inside the group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-37">
+          <mxGeometry x="12.5" y="10" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-37">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="870" y="150" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-16" value="use project template&amp;nbsp;&lt;i&gt;&lt;font color=&quot;#ff9933&quot;&gt;cookiecutter-data-science&lt;/font&gt;&lt;/i&gt; in your local workspace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-38">
+          <mxGeometry width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-38">
+          <mxGeometry y="40" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1235" y="150" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-18" value="link your local folder to the remote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-39">
+          <mxGeometry width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="RTWtIBDPe_BRNrza61l3-39">
+          <mxGeometry y="40" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTWtIBDPe_BRNrza61l3-44" target="RTWtIBDPe_BRNrza61l3-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-48" value="new commits" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RTWtIBDPe_BRNrza61l3-47">
+          <mxGeometry x="-0.0444" y="-2" relative="1" as="geometry">
+            <mxPoint x="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-44" value="create branch&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;dev&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1209.95" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTWtIBDPe_BRNrza61l3-46" target="RTWtIBDPe_BRNrza61l3-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1209.95" y="320" />
+              <mxPoint x="1189.95" y="320" />
+              <mxPoint x="1189.95" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-51" value="if independant experiments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RTWtIBDPe_BRNrza61l3-50">
+          <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint x="-50" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-46" value="merge into &lt;i&gt;&lt;b&gt;main&lt;/b&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1209.95" y="290" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-49" value="&lt;br&gt;create branch&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;feature/&amp;lt;reference&amp;gt;&amp;nbsp;&lt;/i&gt;(if new feat) /&amp;nbsp;&lt;i style=&quot;border-color: var(--border-color); font-weight: bold;&quot;&gt;bugfix&amp;lt;reference&amp;gt;&amp;nbsp;&lt;/i&gt;(if bugfix)&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1209.95" y="340" width="200.05" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTWtIBDPe_BRNrza61l3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTWtIBDPe_BRNrza61l3-18" target="RTWtIBDPe_BRNrza61l3-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

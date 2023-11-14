@@ -33,6 +33,7 @@ project/
 |-- results/
 |-- secrets/
 |-- src/
+|-- tests/
 |-- README.md
 |-- requirements.txt
 |-- .env
